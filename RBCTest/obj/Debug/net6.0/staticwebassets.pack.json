@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\.docx",
+      "PackagePath": "staticwebassets\\Images\\.docx"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\.txt",
+      "PackagePath": "staticwebassets\\Images\\.txt"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\bdbktpwe.PNG",
+      "PackagePath": "staticwebassets\\Images\\bdbktpwe.PNG"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\download.png",
+      "PackagePath": "staticwebassets\\Images\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\e0is4e11.docx",
+      "PackagePath": "staticwebassets\\Images\\e0is4e11.docx"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\kjds.txt",
+      "PackagePath": "staticwebassets\\Images\\kjds.txt"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\newdataimg.jpg",
+      "PackagePath": "staticwebassets\\Images\\newdataimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\pc4mxvh5.PNG",
+      "PackagePath": "staticwebassets\\Images\\pc4mxvh5.PNG"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\raaucfx0.png",
+      "PackagePath": "staticwebassets\\Images\\raaucfx0.png"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\Images\\v2t4merb.txt",
+      "PackagePath": "staticwebassets\\Images\\v2t4merb.txt"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\muslu\\OneDrive\\Desktop\\Sulu\\Test\\RBCTest\\wwwroot\\javascript\\index.js",
+      "PackagePath": "staticwebassets\\javascript\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RBCTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RBCTest.props",
+      "PackagePath": "build\\RBCTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RBCTest.props",
+      "PackagePath": "buildMultiTargeting\\RBCTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RBCTest.props",
+      "PackagePath": "buildTransitive\\RBCTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

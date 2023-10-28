@@ -1,0 +1,15 @@
+﻿@model File
+    <div class="newdata-page"></div>
+    <div class="container">
+        <div class="newdata-box">
+            <div class="newdata-img"><img src="~/Images/download.png" alt=""></div>
+            <div class="newdata-inps">
+                <form action="/Home/AddFile" method="post" enctype="multipart/form-data">
+                    <input type="text" placeholder="Name" asp-for="Name"> <br>
+                    <input type="text" placeholder="Description" asp-for="Description"> <br>
+                    <input style="border: none;" type="file" asp-for="FileName"> <br>
+                    <button>Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>

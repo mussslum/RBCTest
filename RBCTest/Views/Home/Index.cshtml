@@ -1,0 +1,41 @@
+﻿ @model List<File>  
+ <div class="main mt-4">
+        <div class="container">
+            <div class="add-search">
+                <a href="/Home/AddFile">New Data</a>
+                <input type="text" placeholder="Search" name="" id="">
+            </div>
+
+            <div class="table mt-4">
+                <table class="table table-dark table-hover">
+                    <thead>
+                        <tr>
+                            <th>Number</th>
+                            <th>Name <a href=""><i class="fa-solid fa-sort"></i></a></th>
+                            <th>Date <a href=""><i class="fa-solid fa-sort"></i></a></th>
+                            <th>Description <a href=""><i class="fa-solid fa-sort"></i></a></th>
+                            <th>FileName</th>
+                            <th>Edit</th>
+                            <th>View</th>
+                            <th>Delete</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach(var item in Model)
+                    {
+                        <tr>
+                            <td>1</td>
+                            <td>@item.Name</td>
+                            <td>@item.Date</td>
+                            <td>@item.Description</td>
+                            <td>@item.FileName</td>
+                            <td><a class="btn btn-primary" href="/Home/EditFile/@item.FileId">Edit</a></td>
+                            <td><a class="btn btn-warning" href="">View</a></td>
+                            <td><a class="btn btn-danger" href="/Home/DeleteFile/@item.FileId">Delete</a></td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
